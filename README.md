@@ -1,4 +1,4 @@
-# Liyon Liju
+# LIYON LIJU
 
 **Cybersecurity Researcher & Systems Developer**  
 📍 Kerala, India
@@ -8,7 +8,7 @@
 ### `whoami`
 
 ```yaml
-Name        : Liyon Liju
+Name        : LIYON LIJU
 Born        : August 6, 2011
 Location    : Kerala, India
 Focus       : Defensive Security, Threat Detection, Systems Engineering
