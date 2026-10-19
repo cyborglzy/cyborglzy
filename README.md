@@ -12,7 +12,6 @@ Name        : Liyon Liju
 Born        : August 6, 2011
 Location    : Kerala, India
 Focus       : Defensive Security, Threat Detection, Systems Engineering
-Languages   : Python, C, C++, Bash, JavaScript
 Environment : Linux, SIEM / Wazuh, Virtual Security Labs
 ```
 
