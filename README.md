@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="liyon-liju-cyborglzy.jpg" alt="LIYON LIJU Banner" width="100%" style="border-radius: 8px;" />
+
 # LIYON LIJU — <a href="https://github.com/cyborglzy" target="_blank">#CYBORGLZY</a>
 
 <p align="center">
